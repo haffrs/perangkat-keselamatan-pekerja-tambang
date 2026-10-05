@@ -135,6 +135,9 @@ Lalu pindahkan kabel sinyal buzzer di rangkaian. Batasan: sensor analog harus te
 |---|---|
 | ![Bahaya](/images/kondisi-bahaya.png) | ![Panas](/images/kondisi-panas.png) |
 
+| Kondisi Gelap |
+| ![Rangkaian](/images/lampu-menyala.png) |
+
 ## Keterbatasan
 
 - Disimulasikan di Wokwi; belum diuji pada perangkat keras fisik.
