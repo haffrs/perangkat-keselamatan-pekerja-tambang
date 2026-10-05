@@ -1,0 +1,14 @@
+# Hasil kompilasi Arduino
+build/
+*.hex
+*.elf
+*.bin
+*.o
+
+# Sistem operasi
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
