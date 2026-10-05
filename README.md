@@ -10,8 +10,6 @@ Prototipe perangkat keselamatan yang dikenakan pekerja tambang, berbasis **Ardui
 
 > **Peringatan:** proyek ini dibuat untuk **tujuan pembelajaran** (tugas mata kuliah Internet of Things). Perangkat ini bukan alat keselamatan bersertifikasi dan **tidak boleh dijadikan satu-satunya pelindung** di lingkungan kerja sungguhan.
 
-[Buka simulasi di Wokwi](https://wokwi.com/projects/476661247482973185)
-
 ## Fitur
 
 - Deteksi gas dengan tiga level: **AMAN**, **WASPADA**, **BAHAYA**.
