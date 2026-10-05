@@ -155,10 +155,6 @@ Lalu pindahkan kabel sinyal buzzer di rangkaian. Batasan: sensor analog harus te
 - [ ] Pengiriman peringatan ke pos kendali (misalnya LoRa).
 - [ ] Papan yang lebih kecil dan catu daya baterai.
 
-## Dokumentasi
-
-Laporan praktikum lengkap tersedia di folder [`docs/`](docs/).
-
 ## Lisensi
 
 Dirilis di bawah lisensi [MIT](LICENSE).
