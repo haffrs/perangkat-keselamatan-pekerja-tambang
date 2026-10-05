@@ -131,12 +131,13 @@ Lalu pindahkan kabel sinyal buzzer di rangkaian. Batasan: sensor analog harus te
 |---|---|
 | ![Rangkaian](/images/rangkaian.png) | ![Aman](/images/kondisi-aman.png) |
 
-| Gas BAHAYA | PANAS |
+| Gas Waspada | Gas Bahaya |
 |---|---|
-| ![Bahaya](/images/kondisi-bahaya.png) | ![Panas](/images/kondisi-panas.png) |
+| ![Bahaya](/images/kondisi-waspada.png) | ![Bahaya](/images/kondisi-bahaya.png) |
 
-| Kondisi Gelap |
-| ![Rangkaian](/images/lampu-menyala.png) |
+| Kondisi Gelap | PANAS |
+|---|---|
+| ![Rangkaian](/images/lampu-menyala.png) | ![Panas](/images/kondisi-panas.png) |
 
 ## Keterbatasan
 
