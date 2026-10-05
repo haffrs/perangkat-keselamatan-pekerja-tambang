@@ -118,9 +118,13 @@ Lalu pindahkan kabel sinyal buzzer di rangkaian. Batasan: sensor analog harus te
 │   ├── diagram.json                            # rangkaian Wokwi (salin dari editor)
 │   ├── libraries.txt                           # library Wokwi
 │   └── README.md
-├── docs/
-│   ├── Laporan_Praktikum_IoT_Perangkat_Keselamatan_Pekerja_Tambang.docx
-│   └── images/                                 # tangkapan layar
+├── images/
+│   ├── rangkaian.png
+│   ├── kondisi-aman.png
+│   ├── kondisi-waspada.png
+│   ├── kondisi-bahaya.png
+│   ├── kondisi-panas.png
+│   └── kondisi-menyala.png
 ├── LICENSE
 └── README.md
 ```
