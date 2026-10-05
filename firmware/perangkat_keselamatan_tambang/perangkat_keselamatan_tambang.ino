@@ -16,8 +16,8 @@
 #include <LiquidCrystal_I2C.h>
 #include <DHT.h>
 
-#define NAMA_MHS  "Mohamad Hafiz Sabar"
-#define NIM_MHS   "NIM: 24051204071"
+#define NAMA  "[Nama]"
+#define NIM   "[ID]"
 
 // ===== UKURAN LCD =====
 const int LCD_KOLOM = 20;
@@ -201,8 +201,8 @@ void setup() {
 
   // Nama dan NIM di awal
   tulisBaris(0, "Nama:");
-  tulisBaris(1, NAMA_MHS);
-  tulisBaris(2, NIM_MHS);
+  tulisBaris(1, NAMA);
+  tulisBaris(2, NIM);
   tone(pinBuzzer, 1000, 200);
   delay(3000);
   lcd.clear();
