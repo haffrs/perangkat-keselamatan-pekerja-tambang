@@ -1,3 +1,0 @@
-LiquidCrystal I2C
-DHT sensor library
-Adafruit Unified Sensor
