@@ -7,9 +7,9 @@ Folder ini berisi berkas pendukung simulasi di [Wokwi](https://wokwi.com).
 | `libraries.txt` | Daftar library yang dipakai proyek |
 | `diagram.json` | Rangkaian (komponen dan kabel) |
 
-## Menambahkan `diagram.json`
+## Menambahkan `libraries.txt`
 
-Berkas `diagram.json` :
+Berkas `libraries.txt` :
 
 1. Buka proyek Anda di Wokwi.
 2. Klik tab **libraries.txt**.
