@@ -10,7 +10,7 @@ Prototipe perangkat keselamatan yang dikenakan pekerja tambang, berbasis **Ardui
 
 > **Peringatan:** proyek ini dibuat untuk **tujuan pembelajaran** (tugas mata kuliah Internet of Things). Perangkat ini bukan alat keselamatan bersertifikasi dan **tidak boleh dijadikan satu-satunya pelindung** di lingkungan kerja sungguhan.
 
-[Buka simulasi di Wokwi](GANTI_DENGAN_LINK_WOKWI_ANDA)
+[Buka simulasi di Wokwi](https://wokwi.com/projects/476661247482973185)
 
 ## Fitur
 
@@ -131,11 +131,11 @@ Lalu pindahkan kabel sinyal buzzer di rangkaian. Batasan: sensor analog harus te
 
 | Rangkaian | Kondisi AMAN |
 |---|---|
-| ![Rangkaian](docs/images/rangkaian.png) | ![Aman](docs/images/kondisi-aman.png) |
+| ![Rangkaian](/images/rangkaian.png) | ![Aman](/images/kondisi-aman.png) |
 
 | Gas BAHAYA | PANAS |
 |---|---|
-| ![Bahaya](docs/images/kondisi-bahaya.png) | ![Panas](docs/images/kondisi-panas.png) |
+| ![Bahaya](/images/kondisi-bahaya.png) | ![Panas](/images/kondisi-panas.png) |
 
 ## Keterbatasan
 
